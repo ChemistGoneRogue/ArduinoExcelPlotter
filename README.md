@@ -3,6 +3,6 @@ All you need to do is upload the Arduino code to your Arduino (note down which p
 Then run the Plotter program.
 
 Download the .exe for plotting here: https://drive.google.com/open?id=184UewZyY00vyxH9v0yAH0eFRnZ45xdy_  
-Whole instructional videos here:   
+Whole instructional video:   
 Just the Arduino instructions:  
 Just the Plotter instructions:  
